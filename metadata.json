@@ -1,7 +1,7 @@
 {
   "name": "Crystalium Coin",
   "symbol": "CRRP",
-  "description": "The official token of the Crystalium RP project.",
+  "description": "Official token for Crystalium RP game project.",
   "decimals": 9,
-  "image": "https://raw.githubusercontent.com/redkoalex/Crystalium-Coin/main/crrp.png"
+  "image": "https://raw.githubusercontent.com/redkoalex/Crystalium-Coin/main/logo.png"
 }
